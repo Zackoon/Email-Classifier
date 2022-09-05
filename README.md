@@ -1,7 +1,7 @@
 # Email-Classifier
 Welcome! This is my first attempt at an email classifier using some of 
 the skills I learned this summer. Starting a [Kaggle Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset?resource=download)
-of spam and normal emails, here's the process I went through: 
+of spam and normal emails, here's the process through: 
 
 
 1. Determining The Goal
